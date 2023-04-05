@@ -9,7 +9,7 @@ pipeline {
 
         stage('REPO Cloning'){
             steps {
-                git 'https://github.com/RAJBHAR-SAHIL/Devops_practicals.git'
+                echo 'xcopy /s "*" "D:/Coding Software/xampp/htdocs/devops_xampp_jenkins/" /Y'
             }
         }
 
