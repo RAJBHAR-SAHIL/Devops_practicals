@@ -9,7 +9,7 @@ pipeline {
 
         stage('REPO Cloning'){
             steps {
-                echo 'xcopy /s "*" "D:/Coding Software/xampp/htdocs/devops_xampp_jenkins/" /Y'
+                echo 'xcopy /S "*" "D:/Coding Software/xampp/htdocs/devops_xampp_jenkins/" /Y'
             }
         }
 
