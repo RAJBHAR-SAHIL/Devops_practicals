@@ -15,7 +15,7 @@
     </header>
     <main>
         <h2>Welcome to My Wiki</h2>
-        <p>This is a simple wiki built using PHP and CSS.</p>
+        <p>This is devops practical 4</p>
     </main>
     <footer>
         <p>&copy; 2023 My Wiki</p>
